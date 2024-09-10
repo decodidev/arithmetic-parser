@@ -1,0 +1,28 @@
+{
+  "name": "arithmetic-parser",
+  "version": "1.0.0",
+  "description": "Generates an abstract syntax arithmetic tree (AST) given an arithmetic expression",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decodidev/arithmetic-parser.git"
+  },
+  "keywords": [
+    "arithmetic",
+    "parser"
+  ],
+  "author": "DeCoDi Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decodidev/arithmetic-parser/issues"
+  },
+  "homepage": "https://github.com/decodidev/arithmetic-parser#readme",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
